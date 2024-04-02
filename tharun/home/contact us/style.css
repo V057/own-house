@@ -1,0 +1,66 @@
+body{
+    background-image:url(./images/GKA52i5WMAALIQZ.jpeg);
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nav-right{
+    padding-top: 75px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #C71585;
+    margin-right: 25px;
+}
+.nav-right a{
+    background: url(./IMAGES/dr\ logo\ 1.png);
+    color: gold;
+    border-radius: 30px;
+    margin: 15px;
+    text-decoration: none;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 300;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.nav-right a:hover{
+    color: black;
+    background: white;
+}
+.nav-left img{
+    height: 120px;
+    width: 120px;
+    padding: 20px;
+}
+.contacts {
+    padding: 50px;
+    color: white;
+    flex-direction: row;
+    font-size: 85%;
+}
+
+.C-H1 {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 35px;
+}
+.contact-sub {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.contact-me {
+    border: 2px solid gold;
+    padding: 20px;
+    margin: 20px;
+}
+
+.social-icon-img {
+    height: 50px;
+    padding: 50px;
+}

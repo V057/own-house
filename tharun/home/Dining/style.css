@@ -1,0 +1,249 @@
+body{
+    background-image: url(./images/GJSjg7HWEAAAnQB.jpeg);
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nav-right{
+    padding-top: 75px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #C71585;
+    margin-right: 25px;
+}
+.nav-right a{
+    background: url(./IMAGES/dr\ logo\ 1.png);
+    color: gold;
+    border-radius: 30px;
+    margin: 15px;
+    text-decoration: none;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 300;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.nav-right a:hover{
+    color: black;
+    background: white;
+}
+.nav-left img{
+    height: 120px;
+    width: 120px;
+    padding: 20px;
+}
+.diningroom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.diningroom p{
+    text-align: center;
+    color: #C71585;
+}
+.diningroom1 p{
+    text-align: center;
+    color: white;
+}
+.diningroom2 p{
+    text-align: center;
+    color: green;
+}
+.diningroom h5{
+    display: flex;
+    color: gold;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.diningroom h6{
+    display: flex;
+    color: lightsalmon;
+    font-size: 20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.one img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.two img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.three img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.diningroom1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.diningroom1 h5{
+    display: flex;
+    color: gold;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.diningroom1 h6{
+    display: flex;
+    color:royalblue;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.four img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.five img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.six img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.diningroom2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.diningroom2 h5{
+    display: flex;
+    color: gold;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.diningroom2 h6{
+    display: flex;
+    color: rgb(232, 232, 231);
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.seven img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.eight img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.nine img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.one img:hover{
+    width: 100%;
+}
+.two img:hover{
+    width: 100%;
+}
+.three img:hover{
+    width: 100%;
+}
+.four img:hover{
+    width: 100%;
+}
+.five img:hover{
+    width: 100%;
+}
+.six img:hover{
+    width: 100%;
+}
+.seven img:hover{
+    width: 100%;
+}
+.eight img:hover{
+    width: 100%;
+}
+.nine img:hover{
+    width: 100%;
+}
+.one h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+.two h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+.three h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+.four h5:hover{
+    width: 100%;
+    color:chartreuse;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+.five h5:hover{
+    width: 100%;
+    color: chartreuse;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+.six h5:hover{
+    width: 100%;
+    color: chartreuse;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+.seven h5:hover{
+    width: 100%;
+    color:springgreen;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+.eight h5:hover{
+    width: 100%;
+    color: springgreen;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+.nine h5:hover{
+    width: 100%;
+    color: springgreen;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}

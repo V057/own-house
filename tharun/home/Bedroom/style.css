@@ -1,0 +1,208 @@
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nav-right{
+    padding-top: 75px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #C71585;
+    margin-right: 25px;
+}
+.nav-right a{
+    background: url(./IMAGES/dr\ logo\ 1.png);
+    color: gold;
+    border-radius: 30px;
+    margin: 15px;
+    text-decoration: none;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 300;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.nav-right a:hover{
+    color: black;
+    background: white;
+}
+.nav-left img{
+    height: 120px;
+    width: 120px;
+    padding: 20px;
+}
+.bedroom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.bedroom p{
+    text-align: center;
+}
+.bedroom1 p{
+    text-align: center;
+}
+.bedroom2 p{
+    text-align: center;
+}
+.bedroom h5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.one img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.two img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.three img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.bedroom1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.bedroom1 h5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.four img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.five img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.six img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.bedroom2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.bedroom2 h5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.seven img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.eight img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.nine img{
+    height: 45vh;
+    width: 45vh;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+.one img:hover{
+    width: 100%;
+}
+.two img:hover{
+    width: 100%;
+}
+.three img:hover{
+    width: 100%;
+}
+.four img:hover{
+    width: 100%;
+}
+.five img:hover{
+    width: 100%;
+}
+.six img:hover{
+    width: 100%;
+}
+.seven img:hover{
+    width: 100%;
+}
+.eight img:hover{
+    width: 100%;
+}
+.nine img:hover{
+    width: 100%;
+}
+.one h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+}
+.two h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+}
+.three h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+}
+.four h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+}
+.five h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+}
+.six h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+}
+.seven h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+}
+.eight h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+}
+.nine h5:hover{
+    width: 100%;
+    color: red;
+    border: 2px solid yellowgreen;
+    border-radius: 50px;
+}
